@@ -1,0 +1,13 @@
+
+
+
+#card_area{
+    border:10px solid black;
+}
+
+
+#card_button{
+    background-color:hotpink;
+    margin-left:50%;
+    height:70px;
+}
